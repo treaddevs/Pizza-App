@@ -1,5 +1,5 @@
 # Pizza-App
-Pizza App (Command line view) based on a real local franchise Brickyard Hollow Pizza, based in Portland, ME
+Pizza App (Command line view) is based on a real local franchise Brickyard Hollow Pizza, based in Portland, ME
 
 This command line view version allows a user to either: 1) See a menu 2) Build-your-own pizza
 The user inputs their selection and continues through the program until the order is complete:
